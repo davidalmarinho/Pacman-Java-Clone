@@ -48,6 +48,7 @@ public class Renderer extends Canvas {
             } else {
                 jFrame.setExtendedState(JFrame.MAXIMIZED_BOTH);
                 jFrame.setUndecorated(true);
+                jFrame.setLocationRelativeTo(null);
             }
         } else {
             jFrame.setPreferredSize(new Dimension(WIDTH * SCALE, HEIGHT * SCALE));
