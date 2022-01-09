@@ -60,6 +60,7 @@ public class Renderer extends Canvas {
         jFrame.setLocationRelativeTo(null);
         jFrame.setDefaultCloseOperation(jFrame.EXIT_ON_CLOSE);
         jFrame.setVisible(true);
+        this.setFocusable(true);
     }
 
     private void setCursor() {
