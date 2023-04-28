@@ -3,3 +3,5 @@ Hi, this was one of the games that I developed while was starting learning game 
 - For fullscreen press F
 - Needs java8 to be ran.
 - OpenJdk doesn't support the sound system (at least the open-jdk 8)
+
+"Gameplay" here: https://youtu.be/sKFoiFEaw20
